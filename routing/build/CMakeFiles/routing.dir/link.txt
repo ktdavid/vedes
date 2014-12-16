@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -g    CMakeFiles/routing.dir/routing.cpp.o  -o ../dist/routing -rdynamic /usr/local/lib/libosmpbf.a -lprotobuf-lite -lz -lbz2 -lexpat -lpthread 

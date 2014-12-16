@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -g    CMakeFiles/bus-stops.dir/bus-stops.cpp.o  -o ../dist/bus-stops -rdynamic /usr/local/lib/libosmpbf.a -lprotobuf-lite -lz -lbz2 -lexpat -lpthread 

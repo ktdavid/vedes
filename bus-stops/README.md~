@@ -1,0 +1,12 @@
+# Build
+
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+
+The executable file will be placed in the "dist" directory.
+
+# Run
+
+    $ bus-stops ../../map.osm
